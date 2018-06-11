@@ -6,7 +6,7 @@ According to: https://www.opengovasia.com/articles/coding-thailand-to-advocate-d
 
 By the initiative of the Digital Economy Promotion Agency(DEPA) in collaboration with the private sectors, they encourage a youth-educational
 project named "Coding Thailand" to develop computational thinking skills. DEPA, an agency under "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม (the Ministry of Digital Economy and Society, abb. MDES)",
-and the private sector, is leading this project aimed to reach more than 10 million people within three years.
+and the private sector, is leading this project aimed to reach more than 10 million people within three years. It's influenced by "Thailand 4.0", the governmental long-term Hi-Tech development plan aiming "Industry 4.0" or "4th Industrial Revolution".
 
 
 Here is quote from the article:
